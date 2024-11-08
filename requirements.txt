@@ -1,0 +1,18 @@
+# python==3.11
+torch==2.2.2
+transformers==4.31.0
+numpy==1.26.4
+tokenizers
+datasets
+peft
+wandb
+loguru
+nvitop
+lion-pytorch
+matplotlib
+bitsandbytes
+scipy
+scikit-learn
+evaluate
+tensorly
+# optional: fast_hadamard_transform if using approx_svd
