@@ -1,6 +1,8 @@
 # Subset-Norm and Subspace-Momentum: Faster Memory-Efficient Adaptive Optimization with Convergence Guarantees  
 
 -----
+[ICML25 Paper](https://openreview.net/pdf?id=j4HpE61Zcv).
+
 Note: This repo is built on top of [GaLore](https://github.com/jiaweizzhao/GaLore).
 
 <table style="width: 100%; max-width: 1200px; margin: auto;">
